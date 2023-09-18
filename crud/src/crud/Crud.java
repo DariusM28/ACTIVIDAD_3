@@ -1,0 +1,14 @@
+
+package crud;
+
+
+public class Crud {
+
+    
+    public static void main(String[] args) {
+        frm s = new frm();
+        s.show();
+       
+    }
+    
+}
